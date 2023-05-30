@@ -33,3 +33,7 @@ _3a='valido'
 mi-variable'invalido'
 with='invalido'
 3_a='invalido'
+
+CAMBIAR UN RERPOSITIRIO DE MASTER A MAIN
+git checkout -b main
+git branch -M main
