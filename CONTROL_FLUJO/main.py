@@ -45,8 +45,8 @@ if apellido [-2:]=="es":
 #hacer un programa que le pida a un usuario su dni comproube que sea de 8 digitos, si es correcto que sume
 #el primer numero y el ultimo numero del dni, mostrar la suma y el resultado
 dniusario=input("ingrese su dni: ")
-if longitudDni==8:
- print [0+-1]
+
+#hacer un programa que permita que el usuario ingrrese un año y me de respuesta si es biciestro o no
 
 
 
