@@ -22,6 +22,6 @@ while True:
     else:
         print("Opción no válida. Por favor, elige piedra, papel o tijera.")
 
-    continuar = input("¿Quieren jugar otra vez? (s/n): ")
+    continuar = input("¿Quieren jugar otra vez? (si/no): ")
     if continuar.lower() != "s":
         break

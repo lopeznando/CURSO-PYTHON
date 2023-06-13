@@ -18,14 +18,9 @@ while True:
   
 while True:
   bingo=input("ingrese el numero ganador: ")
-  if bingo == "":
-    print("primer intento")
-  if bingo == "":
-    print("segundo intento")
   if bingo == "2":
     break
-  else:
-    print("perdiste la opotunidad")
+  
 
 
    
