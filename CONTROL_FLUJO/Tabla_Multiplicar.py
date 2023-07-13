@@ -1,7 +1,7 @@
-# tablaDe=int(input('ingresa un numero'))
-# for numero in range(1,13):
-#     resultado=numero*tablaDe
-#     print(f"{numero} * {tablaDe} = {resultado}")
+tablaDe=int(input('ingresa un numero'))
+for numero in range(1,13):
+    resultado=numero*tablaDe
+    print(f"{numero} * {tablaDe} = {resultado}")
 
 numero=int(input('ingresa un numero: '))
 factorial=1 
